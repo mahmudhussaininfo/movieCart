@@ -27,6 +27,8 @@ npm run dev
   <li>Movie Details</li>
   <li>Add to cart</li>
   <li>Dark Mode/light mode enable</li>
+  <li>Context API</li>
+  <li>useReducer</li>
 </ul>
 
 <hr/>

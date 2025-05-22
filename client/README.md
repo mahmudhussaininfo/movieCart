@@ -13,11 +13,8 @@ If you are developing a production application, we recommend using TypeScript wi
 <hr/> <hr/>
 
 <h2>Run Project</h2>
-### Run the development server
-
 ```bash
 npm run dev
-
 
 <hr/> <hr/>
 

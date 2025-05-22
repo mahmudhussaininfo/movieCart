@@ -16,6 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ### Run the development server
 
 ```bash
+cd client
 npm run dev
 ```
 <hr/> <hr/>
